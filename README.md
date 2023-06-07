@@ -2,7 +2,7 @@
 
 Unwindy is a beautifully intuitive, powerful, and user-friendly application designed to help you track and achieve your goals, fostering mindfulness and peace along the journey.
 
-![Unwindy logo](/assets/logo.png)
+![Unwindy logo](/logo.png)
 
 ## Our Vision 🌏
 
